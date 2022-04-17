@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nhật Tiến </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <h3 align="center">A technology believer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NGUYENNHATTIEN31" alt="NGUYENNHATTIEN31" /> <img src="https://badges.pufler.dev/repos/NGUYENNHATTIEN31" alt="NGUYENNHATTIEN31" /> </p>
 
 - ✍ I'm a student of: [Trường Cao đẳng Kỹ thuật Công nghệ Nha Trang](http://cdktcnnt.edu.vn/) (CĐKTCNNT).
 
 - 🌱 I’m currently learning **HTML.**
+
+
+
+## Spotify Playing 🎧:
+
+
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/album/33Iz5SghJnJ9iM0xIWCS3M?highlight=spotify:track:5fFLotKS1286huYIMQHqz7)
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 
 ## 📫 How to reach me:
@@ -26,8 +37,11 @@
 <p align="center">
   
   <img src="https://img.icons8.com/fluency/344/python.png" alt="opencv" width="48" height="48"/>
+  <img src="https://img.icons8.com/nolan/344/html.png" alt="opencv" width="48" height="48"/>
   <img src="https://img.icons8.com/cute-clipart/344/c.png" alt="opencv" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/bubbles/344/microsoft-powerpoint-2019.png" alt="opencv" width="48" height="48"/>
+  <img src="https://img.icons8.com/plasticine/344/microsoft-word-2019.png" alt="opencv" width="48" height="48"/>
+  <img src="https://img.icons8.com/bubbles/344/microsoft-excel-2019.png" alt="opencv" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
@@ -44,8 +58,9 @@
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
       <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif">
 </a>
     </td>
   </tr>
+  
 </table>
