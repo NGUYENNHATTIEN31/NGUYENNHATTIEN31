@@ -11,6 +11,9 @@
 
 
 ## Spotify Playing 🎧:
+<img align="left" alt="GIF" height="115px" src="https://i.scdn.co/image/ab67616d0000b27329f906fe7a60df7777b02ee1" />
+<p><h3 align="center">Muộn Rồi Mà Sao Còn </h3>
+<h3 align="center">Cannons </h3></p>
 
 
 
