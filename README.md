@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nhật Tiến </h1>
 <p align="center"><img src="https://img.icons8.com/color/50/000000/vietnam-circular.png"/></p>
-<img align="right" alt="GIF" height="120px" src="https://i.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.webp" />
 <h3 align="center">A technology believer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NGUYENNHATTIEN31" alt="NGUYENNHATTIEN31" />
 <img src="https://badges.pufler.dev/repos/NGUYENNHATTIEN31" alt="NGUYENNHATTIEN31" /> </p>
+<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.webp" />
 
 - ✍ I'm a student of: [Trường Cao đẳng Kỹ thuật Công nghệ Nha Trang](http://cdktcnnt.edu.vn/) (CĐKTCNNT).
 
