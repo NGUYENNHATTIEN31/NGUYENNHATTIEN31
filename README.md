@@ -59,7 +59,7 @@
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
       <a target="_blank">
-  <img align="right center" height="250" width="450" alt="GIF" src="https://media4.giphy.com/media/tY0Li19HJ2unvdoLoy/giphy.gif?cid=ecf05e47848zd3hpu442bxkcn55fxfafci5pd76d27vlo3vk&rid=giphy.gif&ct=g">
+  <img align="right center" height="300" width="500" alt="GIF" src="https://media4.giphy.com/media/8a9dtmjMI6yu7s55xc/giphy.gif?cid=ecf05e47jk8vlzxf2ef4y5x6dbltvew9kgaww7nzcgp3en4b&rid=giphy.gif&ct=g">
 </a>
     </td>
   </tr>
