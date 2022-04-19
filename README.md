@@ -11,7 +11,7 @@
 
 
 
-## Spotify Playing 🎧:
+## Spotify Playing<img align="left center" alt="GIF" height="40px" src="https://media0.giphy.com/media/W4taRUxV1WHlNmFCDH/giphy.gif?cid=ecf05e47llsdbudykuz8n5v2tteumocl7z17qcnswp8wsj2y&rid=giphy.gif&ct=s" />:
 
  <!--<[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />-->
@@ -20,7 +20,7 @@
 
 
 
-## 📫 How to reach me:
+## How to reach me<img align="left center " alt="GIF" height="50px" src="https://media1.giphy.com/media/QBqTS9XBErS1rEvqyn/giphy.gif?cid=ecf05e47ln6c1y9mz70acvi429e7de4xd68cynv9iqa4et1j&rid=giphy.gif&ct=g" />:
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100012907695117" alt="Facebook">
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-## Skills:
+## Skills<img align="left center " alt="GIF" height="50px" src="https://media4.giphy.com/media/SvdTRdfrhnf62WQ58Q/giphy.gif?cid=ecf05e47g54meboacqgnn7b5aezgcowstf2rj229lws3lknv&rid=giphy.gif&ct=g" />:
 <p align="center">
   
   <img src="https://img.icons8.com/fluency/344/python.png" alt="opencv" width="48" height="48"/>
@@ -59,7 +59,7 @@
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
       <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif">
+  <img align="right center" height="250" width="450" alt="GIF" src="https://media4.giphy.com/media/tY0Li19HJ2unvdoLoy/giphy.gif?cid=ecf05e47848zd3hpu442bxkcn55fxfafci5pd76d27vlo3vk&rid=giphy.gif&ct=g">
 </a>
     </td>
   </tr>
