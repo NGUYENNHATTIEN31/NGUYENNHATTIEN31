@@ -15,7 +15,7 @@
 
  <!--<[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />-->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qvfasmatcqxx5a72mjywbe5hlq&cover_image=true&theme=novatorem&bar_color=dc143c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qvfasmatcqxx5a72mjywbe5hlq&cover_image=true&theme=novatorem&bar_color=dc143c&bar_color_cover=false)](https://open.spotify.com/user/31qvfasmatcqxx5a72mjywbe5hlq?si=d79363ced22a4df5)
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
