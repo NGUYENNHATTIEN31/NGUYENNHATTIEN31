@@ -38,6 +38,7 @@
  <img src="https://c.tenor.com/U10NRyH_950AAAAM/nyan-cat-rainbow.gif" alt="opencv" width="48" height="48"/>
  <img src="https://c.tenor.com/UWK8eyFt5ewAAAAC/patrick-star-nyancat.gif" alt="opencv" width="48" height="48"/>
  <img src="https://c.tenor.com/Cah_Z2pJXcIAAAAC/arknights-doctor-and-nyan-cat-nyan-cat.gif" alt="opencv" width="48" height="48"/>
+ </p>
 
 ## Skills<img align="left center " alt="GIF" height="50px" src="https://media4.giphy.com/media/SvdTRdfrhnf62WQ58Q/giphy.gif?cid=ecf05e47g54meboacqgnn7b5aezgcowstf2rj229lws3lknv&rid=giphy.gif&ct=g" />:
 <p align="center">
