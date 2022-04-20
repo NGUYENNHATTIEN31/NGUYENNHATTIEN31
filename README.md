@@ -1,4 +1,4 @@
-<img align="left center" height="70" width="150" alt="GIF" src="https://media3.giphy.com/media/0Awb0MITzU2efaxrS2/giphy.gif?cid=ecf05e4743n3y7ggh7mu2sb4h24ognf5y41zzgyq04vthyx9&rid=giphy.gif&ct=s"><h1 align="center">Hi<img align="left center" alt="GIF" height="60px" src="https://media1.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47pd9mbvv9jl3hktghz1y9oxyg119won9vvv9x2wob&rid=giphy.gif&ct=g" />, I'm Nhật Tiến </h1>
+<img align="left down" height="60" width="150" alt="GIF" src="https://media3.giphy.com/media/0Awb0MITzU2efaxrS2/giphy.gif?cid=ecf05e4743n3y7ggh7mu2sb4h24ognf5y41zzgyq04vthyx9&rid=giphy.gif&ct=s"><h1 align="center">Hi<img align="left center" alt="GIF" height="60px" src="https://media1.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47pd9mbvv9jl3hktghz1y9oxyg119won9vvv9x2wob&rid=giphy.gif&ct=g" />, I'm Nhật Tiến </h1>
 <p align="center"><img src="https://img.icons8.com/color/50/000000/vietnam-circular.png"/></p>
 <h3 align="center">A technology believer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NGUYENNHATTIEN31" alt="NGUYENNHATTIEN31" />
@@ -33,6 +33,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
 </p>
+ 
 
 ## Skills<img align="left center " alt="GIF" height="50px" src="https://media4.giphy.com/media/SvdTRdfrhnf62WQ58Q/giphy.gif?cid=ecf05e47g54meboacqgnn7b5aezgcowstf2rj229lws3lknv&rid=giphy.gif&ct=g" />:
 <p align="center">
@@ -65,3 +66,4 @@
   </tr>
   
 </table>
+<p align="right"><img src="https://i.kym-cdn.com/photos/images/original/000/149/931/tumblr_loa8itmSHG1qdet7oo1_400.gif"/></p>
