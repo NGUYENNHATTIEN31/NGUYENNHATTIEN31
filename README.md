@@ -1,4 +1,4 @@
-<img align="left center" height="300" width="500" alt="GIF" src="https://media3.giphy.com/media/0Awb0MITzU2efaxrS2/giphy.gif?cid=ecf05e4743n3y7ggh7mu2sb4h24ognf5y41zzgyq04vthyx9&rid=giphy.gif&ct=s"><h1 align="center">Hi<img align="left center" alt="GIF" height="60px" src="https://media1.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47pd9mbvv9jl3hktghz1y9oxyg119won9vvv9x2wob&rid=giphy.gif&ct=g" />, I'm Nhật Tiến </h1>
+<img align="left center" height="60" width="150" alt="GIF" src="https://media3.giphy.com/media/0Awb0MITzU2efaxrS2/giphy.gif?cid=ecf05e4743n3y7ggh7mu2sb4h24ognf5y41zzgyq04vthyx9&rid=giphy.gif&ct=s"><h1 align="center">Hi<img align="left center" alt="GIF" height="60px" src="https://media1.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47pd9mbvv9jl3hktghz1y9oxyg119won9vvv9x2wob&rid=giphy.gif&ct=g" />, I'm Nhật Tiến </h1>
 <p align="center"><img src="https://img.icons8.com/color/50/000000/vietnam-circular.png"/></p>
 <h3 align="center">A technology believer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NGUYENNHATTIEN31" alt="NGUYENNHATTIEN31" />
